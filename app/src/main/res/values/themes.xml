@@ -1,0 +1,3 @@
+<resources>
+    <style name="Theme.TareaSQLite" parent="Theme.Material3.DayNight.DarkActionBar" />
+</resources>

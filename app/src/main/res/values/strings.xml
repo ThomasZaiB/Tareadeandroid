@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Usuarios SQLite</string>
+    <string name="titulo">Usuarios</string>
+    <string name="nombre">Nombre</string>
+    <string name="email">Email</string>
+    <string name="guardar">Guardar</string>
+    <string name="actualizar">Actualizar</string>
+    <string name="cancelar">Cancelar</string>
+    <string name="eliminar">Eliminar</string>
+    <string name="lista_usuarios">Lista de usuarios:</string>
+    <string name="campos_vacios">Completa nombre y email</string>
+    <string name="usuario_guardado">Usuario guardado</string>
+    <string name="usuario_actualizado">Usuario actualizado</string>
+    <string name="usuario_eliminado">Usuario eliminado</string>
+    <string name="error_bd">Error en la base de datos</string>
+</resources>
